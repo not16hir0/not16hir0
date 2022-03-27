@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Hiro and I create Nothingness. 
+I'm Hiro and I created Nothingness. 
 
 🔭 I’m currently working on [ArCraft](https://discord.gg/arcraft)   
 ⚡ Fun fact: I Never sleeps 💤   
