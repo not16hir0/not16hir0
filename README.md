@@ -2,9 +2,6 @@
 
 I'm Hiro and I created Nothingness. 
 
-🔭 I’m currently working on [ArCraft](https://discord.gg/arcraft)   
-🔭 New Bot Soon
-⚡ Fun fact: I am Dead
 
 ### Stats
 <div align="center">
